@@ -8,4 +8,3 @@ https://nodejs.org/es/download/
 
 Ejecutar en la consola node server.js para iniciar el servidor.
 
-En el explorador poner en la barra de direcciones http://localhost:3000/
